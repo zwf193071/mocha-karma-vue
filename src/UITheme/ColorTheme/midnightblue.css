@@ -1,0 +1,19 @@
+/*midnightblue*/
+.ivu-layout-sider {
+    background: midnightblue !important;  /*左侧菜单最外层容器*/
+}
+.ivu-menu-dark {
+    background: midnightblue !important; /*左侧菜单容器*/
+}
+.ivu-menu-dark.ivu-menu-vertical .ivu-menu-opened {
+    background: midnightblue !important; /*左侧菜单打开状态*/
+}
+.ivu-menu-dark.ivu-menu-vertical .ivu-menu-opened .ivu-menu-submenu-title {
+    background: midnightblue !important; /*左侧菜单副标题*/
+}
+.ivu-menu-dark.ivu-menu-vertical .ivu-menu-item:hover, .ivu-menu-dark.ivu-menu-vertical .ivu-menu-submenu-title:hover {
+    background: midnightblue !important; /*左侧菜单副标题hover状态*/
+}
+.topBar--background { /*顶部栏*/
+    background: midnightblue;
+}

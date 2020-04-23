@@ -1,0 +1,25 @@
+/*blue*/
+.ivu-layout-sider {
+    /*左侧菜单最外层容器*/
+    background: #184568 !important; 
+}
+.ivu-menu-dark {
+    /*左侧菜单容器*/
+    background: #184568 !important; 
+}
+.ivu-menu-dark.ivu-menu-vertical .ivu-menu-opened {
+    /*左侧菜单打开状态*/
+    background: #184568 !important; 
+}
+.ivu-menu-dark.ivu-menu-vertical .ivu-menu-opened .ivu-menu-submenu-title {
+    /*左侧菜单副标题*/
+    background: #184568 !important; 
+}
+.ivu-menu-dark.ivu-menu-vertical .ivu-menu-item:hover, .ivu-menu-dark.ivu-menu-vertical .ivu-menu-submenu-title:hover {
+    /*左侧菜单副标题hover状态*/
+    background-color: rgba(56, 160, 244, 0.56) !important;
+}
+.topBar--background { /*顶部栏*/
+    background: #184568; 
+}
+    
